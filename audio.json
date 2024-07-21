@@ -1,0 +1,29 @@
+{
+  "songs": [
+    {
+      "title": "Mad Hatter",
+      "audio": "audio/mad-hatter.mp3",
+      "cover": "images/mad-hatter.jpg"
+    },
+    {
+      "title": "Kalinka",
+      "audio": "audio/kalinka.mp3",
+      "cover": "images/kalinka.jpg"
+    },
+    {
+      "title": "Earning Happiness",
+      "audio": "audio/earning-happiness.mp3",
+      "cover": "images/earning-happiness.jpg"
+    },
+    {
+      "title": "Somewhere Nice",
+      "audio": "audio/somewhere-nice.mp3",
+      "cover": "images/somewhere-nice.jpg"
+    },
+    {
+      "title": "Deep Space",
+      "audio": "audio/deep-space.mp3",
+      "cover": "images/deep-space.jpg"
+    }
+  ]
+}
